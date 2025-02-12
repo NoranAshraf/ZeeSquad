@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "204553361197",
+    "firebase_url": "https://mosaiceffect-4c71e-default-rtdb.firebaseio.com",
+    "project_id": "mosaiceffect-4c71e",
+    "storage_bucket": "mosaiceffect-4c71e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:204553361197:android:1e2c1390dd74558759a5a4",
+        "android_client_info": {
+          "package_name": "com.zeesquad.mosaica"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGdU0Nik5If_lCRWSoe88dna9btQVMIPM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:204553361197:android:16730e49f60c3e0459a5a4",
+        "android_client_info": {
+          "package_name": "com.zsquad"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGdU0Nik5If_lCRWSoe88dna9btQVMIPM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
